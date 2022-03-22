@@ -4,7 +4,7 @@
 
 A collection of funny and/or interesting math projects
 
-# Approximating $\pi$
+# Approximating ![formula](https://render.githubusercontent.com/render/math?math=\Huge\pi)
 
 There are numerous ways to approximate pi. We will have a look at some of them.
 
