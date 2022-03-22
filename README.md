@@ -8,8 +8,8 @@ A collection of funny and/or interesting math projects
 
 There are numerous ways to approximate pi. We will have a look at some of them.
 
-![Circle](circle.png)
+![Circle](ApproxPi/circle.png)
 
 ## Evolution of the approximation
 
-![Approximation](approx.png)
+![Approximation](ApproxPi/approx.png)
